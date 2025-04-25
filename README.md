@@ -32,9 +32,9 @@ The Random Letter Generator is a static web application that requires no server-
 
 The Random Letter Generator uses JavaScript to create random letter sequences based on user preferences:
 
-1.        User sets their preferences (length, case, format, etc.)
-2.        JavaScript generates random letters according to the specified parameters
-3.        Results are displayed in the chosen format and can be copied with one click
+1. User sets their preferences (length, case, format, etc.)
+2. JavaScript generates random letters according to the specified parameters
+3. Results are displayed in the chosen format and can be copied with one click
 
 ## Browser Compatibility
 
