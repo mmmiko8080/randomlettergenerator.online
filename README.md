@@ -4,7 +4,7 @@ A free, customizable online tool to generate random letter sequences for creativ
 
 **[Website](https://randomlettergenerator.online)**
 
-![Random Letter Generator](example.jpg)
+<img width="600" src="example.jpg" alt="Random Letter Generator" />
 
 ## Features
 
