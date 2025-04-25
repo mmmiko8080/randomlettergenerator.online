@@ -2,7 +2,7 @@
 
 A free, customizable online tool to generate random letter sequences for creative writing, word games, education, and development projects.
 
-🌐 **[Visit the live site: https://randomlettergenerator.online](https://randomlettergenerator.online)**
+**[Website](https://randomlettergenerator.online)**
 
 ![Random Letter Generator](example.jpg)
 
